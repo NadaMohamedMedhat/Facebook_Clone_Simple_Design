@@ -1,16 +1,13 @@
-# facebook_clone
+#  Facebook Clone
 
-A new Flutter project.
+## Screen Record
+https://github.com/NadaMohamedMedhat/Facebook_Clone/assets/76527313/001289d1-a903-4f6f-a0df-12d8885819e9
 
-## Getting Started
+## Screen Shots
+![Screenshot_20240130_192316](https://github.com/NadaMohamedMedhat/Facebook_Clone/assets/76527313/4ccd4034-9975-41bd-8d7e-1c574ca60786)
+![Screenshot_20240130_192322](https://github.com/NadaMohamedMedhat/Facebook_Clone/assets/76527313/2b6e534d-a63f-4344-a24c-a6f126ea23f4)
+![Screenshot_20240130_192308](https://github.com/NadaMohamedMedhat/Facebook_Clone/assets/76527313/08a4bd7d-0237-4d2f-8e15-4b4b5f241e49)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
